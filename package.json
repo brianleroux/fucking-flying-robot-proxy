@@ -1,0 +1,15 @@
+{
+  "name": "fucking-flying-robot-remote-webserver",
+  "subdomain": "ffrrw",
+  "scripts": {
+    "start": "index.js"
+  },
+  "version": "0.1.0",
+  "engines": {
+    "node": "0.8.x"
+  },
+  "dependencies": {
+    "emit-stream": "*",
+    "JSONStream": "*"
+  }
+}
